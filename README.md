@@ -1,3 +1,3 @@
-# My React template
+# Basic react app using sockets
 
-Has all the boilerplate filled out for react + react-router + redux + redux-saga + semantic-ui
+Learn how it was made: [https://www.youtube.com/watch?v=l2OIBV4RfAU](https://www.youtube.com/watch?v=l2OIBV4RfAU)
